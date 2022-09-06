@@ -8,8 +8,6 @@ import Footer from "./components/layout/Footer"
 import Container from './components/layout/Container'
 import Project from './components/pages/Project';
 
-import './App.css';
-
 function App() {
   return (
     <Router>
